@@ -27,7 +27,12 @@ npm start
 ```
 ##### The API will be available at: http://localhost:4000
 
+### 🧩 n8n Workflow 
+```
+This project uses an n8n workflow to receive a webhook, send the payload to the Flowbit API `/webhook/ticket-done` endpoint, and return a success response.
 
+📂 See `docs/n8n-webhook-flow.json` for the full export.
+```
 ### 📡 Test Endpoints
 ##### Use Postman to test the API routes.
 ```
