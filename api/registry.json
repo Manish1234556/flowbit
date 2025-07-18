@@ -1,0 +1,20 @@
+[
+  {
+    "tenant": "LogisticsCo",
+    "screenId": "screen1",
+    "name": "Support Tickets",
+    "url": "/support-tickets"
+  },
+  {
+    "tenant": "LogisticsCo",
+    "screenId": "screen2",
+    "name": "Settings",
+    "url": "/settings"
+  },
+  {
+    "tenant": "TenantB",
+    "screenId": "screen3",
+    "name": "Support Tickets",
+    "url": "/support-tickets"
+  }
+]
